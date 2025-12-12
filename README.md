@@ -51,20 +51,22 @@ npm run preview
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
+
 
 src/
 ├── components/
-│   ├── AnswerOption.tsx
-│   ├── PawAnimation.tsx
-│   ├── ProgressBar.tsx
-│   ├── QuizContainer.tsx
-│   └── ResultsPage.tsx
+│ ├── AnswerOption.tsx
+│ ├── PawAnimation.tsx
+│ ├── ProgressBar.tsx
+│ ├── QuizContainer.tsx
+│ └── ResultsPage.tsx
 ├── App.tsx
 ├── index.css
 ├── main.tsx
 └── vite-env.d.ts
-🧠 Assumptions
+
+## 🧠 Assumptions
 Desktop-first UI implementation
 
 Design decisions strictly follow the provided assignment reference
@@ -72,7 +74,7 @@ Design decisions strictly follow the provided assignment reference
 No backend integration required
 
 
-📌 Author
+## 📌 Author
 Dhruv Pratap Singh RA2211027010200
 Frontend Developer
 
