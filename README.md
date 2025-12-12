@@ -53,14 +53,16 @@ npm run preview
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
 
+```text
 src/
 ├── components/
-│ ├── AnswerOption.tsx
-│ ├── PawAnimation.tsx
-│ ├── ProgressBar.tsx
-│ ├── QuizContainer.tsx
-│ └── ResultsPage.tsx
+│   ├── AnswerOption.tsx
+│   ├── PawAnimation.tsx
+│   ├── ProgressBar.tsx
+│   ├── QuizContainer.tsx
+│   └── ResultsPage.tsx
 ├── App.tsx
 ├── index.css
 ├── main.tsx
