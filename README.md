@@ -53,7 +53,6 @@ npm run preview
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
 
 ```text
 src/
@@ -67,6 +66,7 @@ src/
 ├── index.css
 ├── main.tsx
 └── vite-env.d.ts
+```
 
 ## 🧠 Assumptions
 Desktop-first UI implementation
