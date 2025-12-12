@@ -1,4 +1,4 @@
-# Frontend Intern Assignment – Dhruv Singh
+# Frontend Intern Assignment – Dhruv Pratap Singh
 
 🚀 **Live Demo**
 
